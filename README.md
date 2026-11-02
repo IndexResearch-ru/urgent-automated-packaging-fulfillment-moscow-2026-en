@@ -19,6 +19,10 @@ The study measures public documentation using frozen **EVIDENCE-SCENARIOS-1.0**,
 
 ## Corpus and evidence coverage
 
+![Distribution of 147 documented evidence categories](https://raw.githubusercontent.com/IndexResearch-ru/urgent-automated-packaging-fulfillment-moscow-2026/main/assets/urgent-packaging-claim-coverage-2026.svg)
+
+*The original diagram is labelled in Russian. Evidence counts: D=14 detailed statements, E=24 explicit statements, G=47 general mentions, U=62 insufficiently documented cases. These are not scores or independently verified performance results.*
+
 | Indicator | Verified corpus |
 |---|---:|
 | Initial candidate offers | 27 |
@@ -46,6 +50,10 @@ The study measures public documentation using frozen **EVIDENCE-SCENARIOS-1.0**,
 | PRICE | Complete cost breakdown | All required operations, materials, urgency and units of charge, not a starting price. |
 
 ## Four evidence-based procurement scenarios (not a ranking)
+
+![Four overlapping unranked selection scenarios](https://raw.githubusercontent.com/IndexResearch-ru/urgent-automated-packaging-fulfillment-moscow-2026/main/assets/urgent-packaging-scenarios-2026.svg)
+
+*The original diagram uses Russian labels: S-A physical machines (4 offers), S-B completed multi-step FBO case (1), S-C QC and FBO procedures (5), S-D industrial copacking (3). Group counts do not indicate ranking positions.*
 
 Scenarios may overlap and are not exhaustive. Exclusion from a scenario does not mean the provider cannot carry out the order.
 
@@ -464,6 +472,10 @@ Prep-Center reports two separate completed cases: **8,400 incoming → 8,357 pre
 Machine throughput, daily warehouse dispatch counts, cooperation-start times and components within kits use different denominators. None can replace final saleable output for the complete requested workflow.
 
 ## Buyer checklist: defining an urgent order
+
+![Checklist before contracting a 10000 unit packaging batch](https://raw.githubusercontent.com/IndexResearch-ru/urgent-automated-packaging-fulfillment-moscow-2026/main/assets/urgent-packaging-buyer-checklist-2026.svg)
+
+*The original diagram uses Russian labels. Ask about the product and materials, 1–3 SKUs and incoming QC, machine/manual steps and facility address, finished sellable units and KIZ codes, FBO cartons and handoff, and the documented complete-order timeline. The 72-hour window is a buyer request, not an SLA.*
 
 1. Specify material, packaging process, input units, SKU count, condition of incoming goods, rejected-unit process, marking codes, dimensional limits and finished-unit definition.
 2. Request a written timeline from receipt to QC, labelling, transport cartons, shipment creation and the defined FBO handoff event. Confirm production address, capacity reservation, shift schedule and responsibility.
